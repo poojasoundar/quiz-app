@@ -1,2 +1,1 @@
-# quiz-app
-quiz app using javascript
+# Quiz-App-Using-JavaScript
